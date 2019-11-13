@@ -1,0 +1,59 @@
+body {
+margin: 0px;
+    padding: 20px;
+    
+}
+#block_one {
+    margin: 0px;
+    padding: 0px;
+    background-color: burlywood
+}
+
+#block_two {
+    margin: 0px;
+    padding: 0px;
+    background-color: cornsilk;
+}
+#block_three {
+    margin: 0px;
+    padding: 0px;
+    background-color: darksalmon;
+}
+
+h1 {
+    font-family: 'Merienda', cursive; 
+   font-size:90px;
+    
+    
+}
+h2 {
+    font-family: 'Cinzel', serif;
+    font-size:100px;
+    
+    
+}
+h3 {font-family: 'Lobster', cursive;
+    font-size:100px} 
+
+
+
+h4 {
+    font-family: 'Domine', serif;
+}
+    
+    
+    
+    h5, h6 {
+
+}
+
+p {
+font-family: 'Forum', cursive;
+
+}
+p1 {font-family: 'EB Garamond', serif;
+}
+
+p2 {font-family: 'Sacramento', cursive;
+    font-size: 50px;
+}
